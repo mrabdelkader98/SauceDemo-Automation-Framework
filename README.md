@@ -17,7 +17,7 @@ This is a professional Automation Framework built to test the **SauceDemo** web 
 - [x] Validation for Empty Username/Password fields.
 - [x] (Add any other cases you automated here...)
 
-## Test Results
-I used **TestNG Reports** to verify the execution.
-- **Total Tests Run:** 7
-- **Pass Rate:** 100% 
+##  Test Results
+Here is a screenshot of the automated TestNG report showing all 7 test cases passed.
+
+![TestNG Report Screenshot](https://github.com/mrabdelkader98/SauceDemo-Automation-Framework/blob/main/DemoReport.png?raw=true)
